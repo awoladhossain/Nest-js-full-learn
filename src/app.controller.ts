@@ -10,3 +10,8 @@ export class AppController {
     return this.appService.getHello();
   }
 }
+<<<<<<< HEAD
+=======
+
+// controller is a kinds of bridge between route and service
+>>>>>>> 3ecf096 (nest js auth guard)
